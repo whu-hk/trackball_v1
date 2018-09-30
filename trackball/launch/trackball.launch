@@ -1,0 +1,5 @@
+<launch>
+  <node pkg="trackball" name="trackball" type="trackball.py" output="screen">
+  </node>
+</launch>
+
